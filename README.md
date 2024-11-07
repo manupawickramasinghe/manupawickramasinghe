@@ -5,11 +5,11 @@
 <h3 align="center">A crazy electronics nut and passionate DevOps Engineer from Sri Lanka 🇱🇰</h3>
 
 
-**🔭 Currently working on** : 
+**🔭 Currently working on** : [Stuff](https://github.com/manupawickramasinghe?tab=repositories)
 
 [![Manupas's GitHub stats](https://github-readme-stats.vercel.app/api?username=manupawickramasinghe)](https://github.com/anuraghazra/github-readme-stats)
+[![Manupas's Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=manupawickramasinghe&show_icons=true&locale=en&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manupawickramasinghe&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="manupawickramasinghe" />
   <img width="84%" src="https://github-profile-trophy.vercel.app/?username=manupawickramasinghe&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&theme=radical" alt="TROPHY" />
 </div>
