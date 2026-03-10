@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://trophygh.kolioaris.xyz/?username=manupawickramasinghe&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Manupa's Trophies" />
+    <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=manupawickramasinghe&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Manupa's Trophies" />
   </a>
 </p>
 
