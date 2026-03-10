@@ -10,10 +10,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently developing **communication software for ALS patients**, integrating AI, NLP, and eye-tracking technologies.
+- 🔭 I’m currently developing **Multiple Embedded Systems**, integrating AI, NLP, and eye-tracking technologies.
 - ⚙️ Professionally managing and tuning large-scale **Azure Kubernetes Service (AKS)** clusters.
-- 🏠 When I'm not doing DevOps, I'm tinkering with **Home Assistant** automations, building custom Telegram/Discord bots, and optimizing Wi-Fi mesh networks. 
-- 🌱 Exploring AI models for data prediction and extrapolation.
+- 🏠 When I'm not doing DevOps, I'm tinkering with **Home Assistant** automations, integrating **Frigate CCTV**, and building custom **ChatGPT LLM Telegram bots**.
+- 🌱 Exploring AI models for data prediction and extrapolation, as well as optimizing Wi-Fi mesh networks.
 - ⚡ Fun fact: I run on a steady mix of electronics tinkering and J-Rock (Base Ball Bear heavily featured on the playlist)!
 
 ---
@@ -44,9 +44,11 @@
 
 ### 🏆 Trophies
 
-<div align="center">
-  <img width="84%" src="https://github-profile-trophy.vercel.app/?username=manupawickramasinghe&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=manupawickramasinghe&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Manupa's Trophies" />
+  </a>
+</p>
 
 ---
 
