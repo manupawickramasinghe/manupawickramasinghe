@@ -67,6 +67,11 @@
     <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=manupawickramasinghe&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Manupa's Trophies" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=manupawickramasinghe">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manupawickramasinghe&&show_icons=true&locale=en" alt="Manupa's Performance" />
+  </a>
+</p>
 
 ---
 
