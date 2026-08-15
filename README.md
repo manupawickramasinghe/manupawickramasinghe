@@ -68,8 +68,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=manupawickramasinghe">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manupawickramasinghe&&show_icons=true&locale=en" alt="Manupa's Performance" />
+  <a href="https://github-readme-streak-stats-neon-rho-96.vercel.app/?user=manupawickramasinghe">
+    <img src="https://github-readme-streak-stats-neon-rho-96.vercel.app/?user=manupawickramasinghe&&show_icons=true&locale=en" alt="Manupa's Performance" />
   </a>
 </p>
 
