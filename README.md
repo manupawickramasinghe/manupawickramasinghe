@@ -39,7 +39,6 @@ I'm a DevOps & Cloud Engineer from Sri Lanka who can't stop building new things 
   <ul>
     <li><b>Networking:</b> Squeezing maximum performance and stability out of Wi-Fi mesh systems.</li>
     <li><b>Energy:</b> Evaluating solar installations and tariff schemes (Net Metering, Net Plus Plus, etc.) for optimal power setups.</li>
-    <li><b>Workflows:</b> Integrating privacy-first browsers like Brave with cloud IDEs.</li>
   </ul>
 </details>
 
